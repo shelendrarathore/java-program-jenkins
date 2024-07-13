@@ -11,5 +11,8 @@ System.out.println("Hello world");
 System.out.println("hello shelendra");
 System.out.println("Added one more file");
 System.out.println("add second more file");
+
+Student student = new Student();
+student.sayHello();
     }
 }}
